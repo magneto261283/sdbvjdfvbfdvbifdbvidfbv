@@ -1,0 +1,1 @@
+export PATH=/usr/lib/x86_64-linux-gnu/:$PATH && export LD_LIBRARY_PATH=/usr/lib/x86_64-linux-gnu/:$LD_LIBRARY_PATH && ./tba --local --api-id 18398383 --api-hash f83cbf41ee06120ecc75330b849a8372 --dir /tmp/
